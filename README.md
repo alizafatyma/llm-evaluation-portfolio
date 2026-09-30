@@ -4,7 +4,7 @@ A human evaluation of two large language models, compared side by side on 12 tas
 
 This mirrors the workflow used in AI training and RLHF (reinforcement learning from human feedback) data work.
 
-**Live report:** `https://<your-github-username>.github.io/llm-evaluation-portfolio/`
+**Live report:** https://alizafatyma.github.io/llm-evaluation-portfolio/
 
 ## What's evaluated
 
